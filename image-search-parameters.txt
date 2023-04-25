@@ -1,0 +1,46 @@
+https://www.google.co.uk/search
+
+?q=turkey
+&tbm=isch
+&source=hp
+&biw=864
+&bih=916
+&ei=uiRIZKubAsqYhbIP8dmduA8
+&iflsig=AOEireoAAAAAZEgyymzs4G7SwbAzT3lbYB_OpS0vRQkE
+&ved=0ahUKEwir4J6T3cX-AhVKTEEAHfFsB_cQ4dUDCAY
+&oq=turkey
+&gs_lcp=CgNpbWcQDFAAWABgAGgAcAB4AIABAIgBAJIBAJgBAKoBC2d3cy13aXotaW1n
+&sclient=img
+
+
+
+
+
+Advanced Query
+---------------
+All these Words
+
+https://www.google.com/search?as_q=kirk+captain&as_epq=&as_oq=&as_eq=&as_nlo=&as_nhi=&lr=&cr=&as_qdr=all&as_sitesearch=&as_occt=any&safe=images&as_filetype=&tbs=
+
+
+https://www.google.com/search?
+
+as_q=kirk+captain
+&as_epq=
+&as_oq=
+&as_eq=
+&as_nlo=
+&as_nhi=
+&lr=
+&cr=
+&as_qdr=all
+&as_sitesearch=
+&as_occt=any
+&safe=images
+&as_filetype=
+&tbs=
+
+
+
+Exact Words
+-------------
