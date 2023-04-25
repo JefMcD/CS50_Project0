@@ -1,0 +1,89 @@
+
+
+*,
+*::before,
+*::after ::after{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html,
+body,
+main,
+form,
+input,
+select,
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14pt;
+}
+
+
+.logo-wrapper{
+    position: relative;
+    display:flex;
+    max-width:700px;
+
+    margin: auto;
+    text-align:center;
+}
+
+#logo{
+    width: 100%;
+    height: 100%;
+
+}
+
+.search-form-wrapper{
+    position: relative;
+    display: flex;
+    width: 700;
+
+
+
+    margin: auto;
+
+    border: 4px solid black;
+    padding: 10px;
+    background-color: plum;
+}
+
+.search-bar{
+    position: relative;
+    display: flex;
+
+    width: 50%;
+    text-align: center;
+
+    border: 2px solid black;
+    padding: 4px;
+    background-color: palegreen;
+}
+
+.search-buttons{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+
+    border: 2px solid black;
+    padding: 4px;
+    background-color:blueviolet;
+}
+.search-heading{
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+button{
+    width: 120px;
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 12px;
+
+    background-color: azure;
+
+}
+
+
