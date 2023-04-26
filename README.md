@@ -45,6 +45,11 @@ search field input name =
 "as_eq" (As exact words but with minus sign ie "-blue")
 
 
+IfeelLuckyGoogle.html
+----------------------
+This is the Google Code for the Standard Search Button and the I'm Feeling Lucky Button
+
+
 
 
 
