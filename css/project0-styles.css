@@ -241,6 +241,7 @@ input.adv-search-field{
     font-size: 10pt;
     cursor: pointer;
 
+    color: white;
     background-color: rgb(94, 150, 214);
 }
 .adv-search-button:hover{
